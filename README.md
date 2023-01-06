@@ -2,32 +2,31 @@
 
 ## Lessons learned today
 
-- Printing to the console
+- Data types
 ```
-print("Hello World")
+"strings" numbers boolean
 ```
-- Commenting code
+- Type conversions
 ```
-# I am a comment
+int("4") str(5) float(4)
 ```
-- Debugging
-- String Manipulation
 
-- Variables
+- Operations
+
+- f-strings
 ```
 name = 'Kingdreamerr'
-# or
-name = "kingdreamerr" 
+print(f"hello {name} !") 
 ```
 
 ## Project to solidify material learned 
 
 ### Tip calculator:
-> This is a program that takes in two pieces of input from the user and then concatenates the two to form one out put
+> This is a program that calculate how much money your friends or family and you will have to pay after a meal if you want to split the bill which is.
 
 #### Preview:
 
-![band name](./band_name.png)
+![tip calculator](./tip_calculator.png)
 
 ## How to run this on your device
 
